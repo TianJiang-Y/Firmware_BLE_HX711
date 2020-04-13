@@ -1,0 +1,43 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1950234791
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[struct_types]
+Fmt0=attHandleValueNoti_t-handle	4	0
+[array_types]
+Fmt0=char[10]	3	0
+Fmt1=uint8 [10]	4	0
+Fmt2=uint8 [3]	4	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Components\hal\target\CC2540EB\hal_startup.c" ""
+A1=_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Components\hal\target\CC2541ST\hal_i2c.c" ""
+A2=_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Projects\ble\SBP_BLE_BreathSensor_v03\Source\SimpleBLEPeripheral_Main.c" ""
+A3=_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Projects\ble\SBP_BLE_BreathSensor_v03\Source\sbp_BBLeftSensorApp.c" "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensorBoth614\Projects\ble\SBP_BLE_BreathSensor_v03\Source\sbp_BBLeftSensorApp.c"
+A4=_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor_v01\Projects\ble\SBP_BLE_BreathSensor_v01\Source\OSAL_SimpleBLEPeripheral.c" ""
+A5=_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor_v01\Projects\ble\SBP_BLE_BreathSensor_v01\Source\SimpleBLEPeripheral_Main.c" ""
+Count=6
+SuppressDialog=0

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\T09_BLE_614TeSensor_MPU9250\BLE-CC254x-1.4.0_BLE_Both614_MPU9250_TeB\Projects\ble\SBP_BLE_Both614_MEMS\Source\sbp_MPU9250App.h</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>D:\T09_BLE_614TeSensor_MPU9250\BLE-CC254x-1.4.0_BLE_Both614_MPU9250_TeB\Projects\ble\SBP_BLE_Both614_MEMS\Source\sbp_MPU9250_DefI2CApp.c</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor\Projects\ble\SBP_BLE_BreathSensor\Source\sbp_BBSSoftWI2CMApp.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor\Projects\ble\SBP_BLE_BreathSensor\Source\simpleBLEPeripheral.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>

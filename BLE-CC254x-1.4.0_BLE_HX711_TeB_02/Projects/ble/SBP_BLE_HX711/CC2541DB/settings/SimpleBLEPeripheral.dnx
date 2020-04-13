@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <DebugChecksum>
+        <Checksum>354098913</Checksum>
+    </DebugChecksum>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <Log_file>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </Log_file>
+    <struct_types>
+        <Fmt0>attHandleValueNoti_t-handle	4	0</Fmt0>
+    </struct_types>
+    <array_types>
+        <Fmt0>char[10]	3	0</Fmt0>
+        <Fmt1>uint8 [10]	4	0</Fmt1>
+        <Fmt2>uint8 [3]	4	0</Fmt2>
+    </array_types>
+    <watch_formats>
+        <Fmt0>{W}1:Raw_data	3	0</Fmt0>
+        <Fmt1>{W}1:Raw_data_0	4	0</Fmt1>
+        <Fmt2>{W}1:k	3	0</Fmt2>
+        <Fmt3>{W}1:receivedata_H	4	0</Fmt3>
+        <Fmt4>{W}1:receivedata_L	4	0</Fmt4>
+        <Fmt5>{W}1:receivedata_M	4	0</Fmt5>
+    </watch_formats>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <Breakpoints>
+        <Bp0>_ "STD_CODE" "{$PROJ_DIR$\..\Source\simpleBLEPeripheral.c}.89.1" 1 0 0 0 "" 0 ""</Bp0>
+        <Count>1</Count>
+    </Breakpoints>
+    <ChipconEmu>
+        <StopTimersOnHalt>0</StopTimersOnHalt>
+        <LeaveTargetRunning>1</LeaveTargetRunning>
+    </ChipconEmu>
+    <Aliases>
+        <A0>_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Components\hal\target\CC2540EB\hal_startup.c" ""</A0>
+        <A1>_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Components\hal\target\CC2541ST\hal_i2c.c" ""</A1>
+        <A2>_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Projects\ble\SBP_BLE_BreathSensor_v03\Source\SimpleBLEPeripheral_Main.c" ""</A2>
+        <A3>_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor614\Projects\ble\SBP_BLE_BreathSensor_v03\Source\sbp_BBLeftSensorApp.c" "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensorBoth614\Projects\ble\SBP_BLE_BreathSensor_v03\Source\sbp_BBLeftSensorApp.c"</A3>
+        <A4>_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor_v01\Projects\ble\SBP_BLE_BreathSensor_v01\Source\OSAL_SimpleBLEPeripheral.c" ""</A4>
+        <A5>_ "E:\My_Project\09_BLE_BreathingSensor\BLE-CC254x-1.4.0_BLE_BreathSensor_v01\Projects\ble\SBP_BLE_BreathSensor_v01\Source\SimpleBLEPeripheral_Main.c" ""</A5>
+        <Count>6</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+</settings>
